@@ -1,0 +1,7 @@
+﻿Sum of HourlyRate,Column Labels,,,,,,,,,,,,,,
+,1,1 Total,2,,,2 Total,3,,3 Total,4,,,,4 Total,Grand Total
+Row Labels,Marketing,,Life Sciences,Medical,Technical Degree,,Life Sciences,Medical,,Life Sciences,Marketing,Medical,Other,,
+Divorced,,,,,78,78,,,,40,,,,40,118
+Married,57,57,100,59,,159,,39,39,147,31,207,54,439,694
+Single,,,,,,,153,,153,166,,,,166,319
+Grand Total,57,57,100,59,78,237,153,39,192,353,31,207,54,645,1131
